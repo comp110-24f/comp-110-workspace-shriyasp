@@ -1,6 +1,6 @@
 """EX03 - A version of Wordle for the word 'codes'."""
 
-__author__ = "73048717"
+__author__ = "730487717"
 
 
 def input_guess(secret_word_len: int) -> str:
